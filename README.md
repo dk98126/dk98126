@@ -7,7 +7,6 @@
   <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/git.png" width=30px/>
   <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/intellij.png" width=30px/>
   <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/postgres.png" width=30px/>
-  <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/oracledb.svg" width=35px/>
   <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/redis.webp" width=30px/>
   <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/mongo.png" width=30px/>
   <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/hibernate.png" width=30px/>
@@ -18,7 +17,3 @@
   <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/gradle.svg" width=30px/>
   <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/liquibase.svg" width=25px/>
   <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/docker.png" width=30px/>
-  <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/react.png" width=30px/>
-  <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/js.png" width=30px/>
-  <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/html.png" width=30px/>
-  <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/css.png" width=30px/>

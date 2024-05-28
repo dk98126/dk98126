@@ -20,3 +20,4 @@
   <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/android.png" width=30px/>
   <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/android.png" width=30px/>
   <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/jetpackcompose.png" width=30px/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)

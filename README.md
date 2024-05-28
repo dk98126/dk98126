@@ -18,5 +18,4 @@
   <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/liquibase.svg" width=25px/>
   <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/docker.png" width=30px/>
   <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/android.png" width=30px/>
-  <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/android.png" width=30px/>
   <img src="https://github.com/dk98126/dk98126/blob/master/images/logos/jetpackcompose.png" width=30px/>
